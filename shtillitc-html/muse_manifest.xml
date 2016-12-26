@@ -1,0 +1,130 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sht.ru" resolutions="1x" timestamp="1474636405828">
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4167491512" ref="phone>index"/>
+      <file name="thank_you_mob.css" crc="337579171" ref="phone>thank_you_mob"/>
+    </folder>
+    <file name="index.html" crc="4261361304" seo="true" mt="1474636324726" redirect="true"/>
+    <file name="thank_you_mob.html" crc="231533375" seo="true" mt="1474583774885" redirect="true"/>
+  </folder>
+  <folder name="fonts">
+    <file name="fontawesome-webfont.woff" crc="222444626"/>
+    <file name="fontawesome-webfont.eot" crc="3863299673"/>
+    <file name="fontawesome-webfont.svg" crc="332874908"/>
+    <file name="opensanscondlight.woff" crc="306583963"/>
+    <file name="opensanscondlight.eot" crc="108318016"/>
+    <file name="opensanscondlight.svg" crc="3953132314"/>
+  </folder>
+  <folder name="assets">
+    <file name="coolform2style.css" crc="4220602352" seo="true" mt="1458847797000"/>
+    <file name="coolform2script.js" crc="286949645" seo="true" mt="1458847911000"/>
+  </folder>
+  <folder name="images">
+    <file name="main_pict.jpg" crc="47547749" ref="index:phone>index"/>
+    <file name="u157-4.png" crc="84169050" ref="index"/>
+    <file name="u185-17.png" crc="123412504" ref="index"/>
+    <file name="u185-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u185-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u185-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="maska.png" crc="4117311995" ref="index:phone>index"/>
+    <file name="start-block.jpg" crc="4125427158" ref="index:phone>index"/>
+    <file name="logo.png" crc="455406491" seo="true" ref="index:phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:phone>index"/>
+    <file name="u487.png" crc="4083791703" ref="index"/>
+    <file name="u487-r.png" crc="409753092" ref="index"/>
+    <file name="u475-17.png" crc="123412504" ref="index"/>
+    <file name="u475-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u475-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u475-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="enigma.jpg" crc="155338024" ref="index:phone>index"/>
+    <file name="bg.jpg" crc="4008675227" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="home-favicon.ico" crc="3797904074" ref="index"/>
+    <file name="u397.png" crc="3992229881" ref="index"/>
+    <file name="u397-r.png" crc="233389829" ref="index"/>
+    <file name="u622-17.png" crc="123412504" ref="index"/>
+    <file name="u622-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u622-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u622-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="u807.png" crc="3974552712" ref="index"/>
+    <file name="u807-r.png" crc="3834205299" ref="index"/>
+    <file name="u821-17.png" crc="123412504" ref="index"/>
+    <file name="u821-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u821-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u821-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="u903.png" crc="3961715896" ref="index"/>
+    <file name="u903-r.png" crc="399773223" ref="index"/>
+    <file name="u917-17.png" crc="123412504" ref="index"/>
+    <file name="u917-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u917-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u917-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="u999.png" crc="3798204786" ref="index"/>
+    <file name="u999-r.png" crc="505650881" ref="index"/>
+    <file name="u1013-17.png" crc="123412504" ref="index"/>
+    <file name="u1013-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u1013-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u1013-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="u1095.png" crc="434791399" ref="index"/>
+    <file name="u1095-r.png" crc="455061522" ref="index"/>
+    <file name="u1109-17.png" crc="123412504" ref="index"/>
+    <file name="u1109-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u1109-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u1109-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="u1205-17.png" crc="123412504" ref="index"/>
+    <file name="u1205-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u1205-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u1205-17-fs.png" crc="3995453608" ref="index"/>
+    <file name="home_mob-favicon.ico" crc="194830056" ref="phone>index"/>
+    <file name="u2300_states.png" crc="88616678" ref="phone>index"/>
+    <file name="u2300_states-r.png" crc="467831547" ref="phone>index"/>
+    <file name="u2482_states.png" crc="187279939" ref="phone>index"/>
+    <file name="u2482_states-r.png" crc="159317567" ref="phone>index"/>
+    <file name="u2426_states.png" crc="4050999698" ref="phone>index"/>
+    <file name="u2426_states-r.png" crc="274774870" ref="phone>index"/>
+    <file name="u2419_states.png" crc="4073227001" ref="phone>index"/>
+    <file name="u2419_states-r.png" crc="3985070126" ref="phone>index"/>
+    <file name="u2364_states.png" crc="167129867" ref="phone>index"/>
+    <file name="u2364_states-r.png" crc="4083779719" ref="phone>index"/>
+    <file name="u3557-17.png" crc="3949642615" ref="phone>index"/>
+    <file name="u3557-17-r.png" crc="360501275" ref="phone>index"/>
+    <file name="u3557-17-m.png" crc="360501275" ref="phone>index"/>
+    <file name="u3557-17-fs.png" crc="3992720593" ref="phone>index"/>
+    <file name="u3732-17.png" crc="123412504" ref="index"/>
+    <file name="u3732-17-r.png" crc="3879718107" ref="index"/>
+    <file name="u3732-17-m.png" crc="3879718107" ref="index"/>
+    <file name="u3732-17-fs.png" crc="3995453608" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="138836611"/>
+    <file name="index.css" crc="3862447747" ref="index"/>
+    <file name="thank_you.css" crc="276684278" ref="thank_you"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="museutils.js" crc="3851988764" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="museconfig.js" crc="169177150" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="require.js" crc="4108833657" ref="index:thank_you:phone>index:phone>thank_you_mob"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index:phone>index"/>
+    <file name="pie.js" crc="3831537696" ref="index:thank_you:phone>index"/>
+    <file name="webpro.js" crc="4067903014" ref="index:phone>index"/>
+    <file name="form_check.php" crc="121412709" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="phone>index"/>
+    <file name="form_process.php" crc="444429785" ref="phone>index"/>
+    <file name="form-u179.php" crc="4039438787" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="form-u461.php" crc="385281212" ref="index"/>
+    <file name="form-u612.php" crc="410678499" ref="index"/>
+    <file name="form-u813.php" crc="4283980668" ref="index"/>
+    <file name="form-u909.php" crc="106689687" ref="index"/>
+    <file name="form-u1005.php" crc="3823607867" ref="index"/>
+    <file name="form-u1101.php" crc="280859816" ref="index"/>
+    <file name="form-u1197.php" crc="3786952599" ref="index"/>
+    <file name="form-u3543.php" crc="4223260015" ref="phone>index"/>
+    <file name="form-u3730.php" crc="515305006" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4201624996" seo="true" mt="1474635872257" redirect="true"/>
+  <file name="thank_you.html" crc="4104262962" seo="true" mt="1474582493656" redirect="true"/>
+</manifest>
